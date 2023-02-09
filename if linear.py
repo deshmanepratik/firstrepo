@@ -7,7 +7,7 @@ Created on Fri May  1 00:41:01 2020
 
 a = 11
 b = 10
-
+#Function definations below
 def prat(a):
     print ("a is greater : "+str(a))
     return a*a
